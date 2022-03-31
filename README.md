@@ -27,7 +27,7 @@ and coding of course 💻
 
 ### You can contact me:
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />][vkontakte]
-[<img align="left" alt="VK" width="26px" src="https://cdn-icons.flaticon.com/png/512/3670/premium/3670125.png?token=exp=1648704832~hmac=ade1a1f28eec5cf81520dd6b647bce8c" />][instagram]
+[<img align="left" alt="VK" width="26px" src="https://cdn-icons.flaticon.com/png/512/3670/3670125.png" />][instagram]
 
 [vkontakte]: https://vk.com/ural_guru
 [instagram]: https://www.instagram.com/ural_guru/
