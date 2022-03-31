@@ -33,8 +33,6 @@ and coding of course 💻
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UralGuru&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 [vkontakte]: https://vk.com/ural_guru
 [instagram]: https://www.instagram.com/ural_guru/
@@ -42,7 +40,11 @@ and coding of course 💻
 
 
 
+<br />
+<br />
+<br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UralGuru&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
