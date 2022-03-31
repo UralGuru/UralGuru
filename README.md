@@ -1,13 +1,6 @@
 ### Hello, I'm Ural 👋
 
 ### I'm studying frontend development
-
-I like:
-- 🎞️ films
-- 🎵 music
-- 💃 dance
-
-and coding of course 💻
 <br />
 ### Skills and Tools
 
