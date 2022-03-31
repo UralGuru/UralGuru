@@ -28,6 +28,7 @@ I'm studying frontend development
 [telegram]: https://t.me/UralGuru
 
 <br />
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UralGuru&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
