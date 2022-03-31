@@ -9,10 +9,6 @@ I like:
 
 and coding of course 💻
 
-
-
-<br />
-<br />
 <br />
 
 ### Skills and Tools
