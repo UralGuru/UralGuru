@@ -28,10 +28,11 @@ and coding of course 💻
 ### You can contact me:
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />][vkontakte]
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
+[<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
 
 [vkontakte]: https://vk.com/ural_guru
 [instagram]: https://www.instagram.com/ural_guru/
-
+[telegram]: https://t.me/UralGuru
 
 
 
