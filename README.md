@@ -31,6 +31,11 @@ and coding of course 💻
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/5968/5968804.png" />][telegram]
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=UralGuru&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [vkontakte]: https://vk.com/ural_guru
 [instagram]: https://www.instagram.com/ural_guru/
 [telegram]: https://t.me/UralGuru
