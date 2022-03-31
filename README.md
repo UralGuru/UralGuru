@@ -6,6 +6,7 @@ I like:
 - 🎞️ films
 - 🎵 music
 - 💃 dance
+
 and coding of course 💻
 
 ### Skills and Tools
