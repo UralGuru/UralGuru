@@ -1,6 +1,6 @@
 ### Hello, I'm Ural 👋
 
-I'm studying frontend development
+I'm frontend development
 
 ### Skills and Tools
 
